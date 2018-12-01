@@ -1,0 +1,8 @@
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:completionHint="My Completion Hint"
+        android:completionThreshold="1"
+        android:text="AutoCompleteTextView" />
